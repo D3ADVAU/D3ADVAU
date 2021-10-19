@@ -53,7 +53,7 @@
 </a>
 <a href="https://github.com/Deadman247/CAM-HACK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=chartreuse-dark" />
-</a><a href="https://github.com/anuraghazra/ENCRYPT-DECRYPT">
+</a><a href="https://github.com/Deadman247/ENCRYPT-DECRYPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=vision-friendly-dark" />
 </a>
 </a><a href="https://github.com/Deadman247/PYENC">
