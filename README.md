@@ -48,7 +48,7 @@
 </a>
 <a href="https://github.com/Deadman247/Phish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=nightowl" />
-</a><a href="https://github.com/anuraghazra/Brute">
+</a><a href="https://github.com/Deadman247/Brute">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=blue-green" />
 </a>
 <a href="https://github.com/Deadman247/CAM-HACK">
