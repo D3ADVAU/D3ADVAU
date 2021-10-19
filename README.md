@@ -35,15 +35,20 @@
 <a href="https://Deadman247.github.io/Deadman247"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Deadman247&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
+<br>
 <a href="https://github.com/Deadman247"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
 <a href="https://fb.com/DeadManGrayHat"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" /></a>
 <a href="https://m.me/DeadManGrayHat"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" /></a>
+</br>
 
-<h3><b><i> Github Repositories :</i></b></h3>
+<b><h3><b><i> Github Repositories :</i></b></h3><b>
 
 <a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/Fb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Fb&theme=nightowl" />
+<a href="https://github.com/anuraghazra/Phish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=nightowl" />
+</a><a href="https://github.com/anuraghazra/Brute">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=blue-green" />
 </a>
+  
