@@ -8,7 +8,7 @@ With inbuilt themes, you can customize the look of the card without doing any ma
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Dead-Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deadman247&theme=dark&show_icons=true)
 ```
 
 ## Stats
@@ -161,17 +161,17 @@ Use `?theme=THEME_NAME` parameter like so :-
 [blueberry_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blueberry
 [slateorange_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=slateorange
 [kacho_ga_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=kacho_ga
-[outrun_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=outrun
-[ocean_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ocean_dark
-[city_lights_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=city_lights
-[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
-[discord_old_blurple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple
-[aura_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
-[panda_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=panda
-[noctis_minimus_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=noctis_minimus
-[cobalt2_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=cobalt2
+[outrun_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=outrun
+[ocean_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=ocean_dark
+[city_lights_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=city_lights
+[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
+[discord_old_blurple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple
+[aura_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
+[panda_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=panda
+[noctis_minimus_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=noctis_minimus
+[cobalt2_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=github-readme-stats&cache_seconds=86400&theme=cobalt2
 
 
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+[add-theme]: https://github.com/Deadman247/
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
