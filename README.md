@@ -46,18 +46,18 @@
 <a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/Phish">
+<a href="https://github.com/Deadman247/Phish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=nightowl" />
 </a><a href="https://github.com/anuraghazra/Brute">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=blue-green" />
 </a>
-<a href="https://github.com/anuraghazra/CAM_HACK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM_HACK&theme=chartreuse-dark" />
+<a href="https://github.com/Deadman247/CAM-HACK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=chartreuse-dark" />
 </a><a href="https://github.com/anuraghazra/ENCRYPT-DECRYPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=vision-friendly-dark" />
 </a>
-</a><a href="https://github.com/anuraghazra/PYENC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=PYENC&theme=midnight-purple midnight-purple" />
+</a><a href="https://github.com/Deadman247/PYENC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=PYENC&theme=midnight-purple" />
 </a>
   
 
