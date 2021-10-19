@@ -38,10 +38,11 @@
 <a href="https://github.com/Deadman247"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
 <a href="https://fb.com/DeadManGrayHat"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" /></a>
 <a href="https://m.me/DeadManGrayHat"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" /></a>
-<h4> </h4>
+
+
 <a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/anuraghazra/Fb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Fb&theme=nightowl" />
 </a>
