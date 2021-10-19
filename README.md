@@ -33,8 +33,9 @@
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://Deadman247.github.io/Deadman247"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Deadman247&color=blueviolet&style=flat-square"></a>
+'''
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
+'''
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/Deadman247"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
 <a href="https://fb.com/DeadManGrayHat"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" /></a>
