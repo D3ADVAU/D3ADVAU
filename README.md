@@ -47,17 +47,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a>
 <a href="https://github.com/Deadman247/Phish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=merko" />
 </a><a href="https://github.com/Deadman247/Brute">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=radical" />
 </a>
 <a href="https://github.com/Deadman247/CAM-HACK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=algolia" />
 </a><a href="https://github.com/Deadman247/ENCRYPT-DECRYPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark" />
 </a>
 </a><a href="https://github.com/Deadman247/PYENC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=PYENC&theme=midnight-purple" />
+</a>
+</a>
+</a><a href="https://github.com/Deadman247/Termuxstyle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Termuxstyle&theme=great-gatsby" />
 </a>
   
 
