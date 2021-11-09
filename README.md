@@ -18,7 +18,7 @@
 
 <div align="center"><h2><b><i>Dead-Man 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b></div>
-
+<div align="center">
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Bangladeshi</i></li>
 <li> 😇 <i>Muslim</i></li>
@@ -26,7 +26,7 @@
 <li> 😪 <i>Love Coading</i></li>
 <li> 💔 <i>Single</i></li>
 <li> 🐍 <i>Trying to learn & Enjoy</i></li>
-<li> 🤐 <i>Aim : Become a Devoloper</i></li>
+<li> 🤐 <i>Aim : Become a Devoloper</i></li></div>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Deadman247"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Deadman247&theme=dracula&no-frame=true&title=Followers,Stars,Repository,Issues"/></a>
@@ -43,25 +43,26 @@
 
 <b><h3><b><i> Github Repositories :</i></b></h3><b>
 
-<div><a href="https://github.com/Deadman247/All">
+<div align="center"><a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a></div>
-<a href="https://github.com/Deadman247/Phish">
+<div align="center"><a href="https://github.com/Deadman247/Phish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=merko" />
-</a><a href="https://github.com/Deadman247/Brute">
+</a></div>
+<div align="center"><a href="https://github.com/Deadman247/Brute">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=radical" />
-</a>
-<a href="https://github.com/Deadman247/CAM-HACK">
+</a></div>
+<div align="center"><a href="https://github.com/Deadman247/CAM-HACK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=algolia" />
-</a><a href="https://github.com/Deadman247/ENCRYPT-DECRYPT">
+</a></div>
+<div align="center"><a href="https://github.com/Deadman247/ENCRYPT-DECRYPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark" />
-</a>
-</a><a href="https://github.com/Deadman247/PYENC">
+</a></div>
+<div align="center"><a href="https://github.com/Deadman247/PYENC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=PYENC&theme=midnight-purple" />
-</a>
-</a>
-</a><a href="https://github.com/Deadman247/Termuxstyle">
+</a></div>
+<div align="center"><a href="https://github.com/Deadman247/Termuxstyle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Termuxstyle&theme=great-gatsby" />
-</a>
+</a></div>
   
 
