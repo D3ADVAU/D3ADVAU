@@ -1,4 +1,3 @@
-
 <!-- Github README -->
 <h1 align="center">Dead-Man</h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4" alt="logo" width="250" height="250"></p>
@@ -28,11 +27,11 @@
 <li> 🐍 <i>Trying to learn & Enjoy</i></li>
 <li> 🤐 <i>Aim : Become a Devoloper</i></li></div>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<div align="center"><h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Deadman247"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Deadman247&theme=dracula&no-frame=true&title=Followers,Stars,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://Deadman247.github.io/Deadman247"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Deadman247&color=blueviolet&style=flat-square"></a>
+<div align="center"><a href="https://Deadman247.github.io/Deadman247"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Deadman247&color=blueviolet&style=flat-square"></a></div>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <br>
@@ -42,7 +41,7 @@
 </br>
 
 <b><h3><b><i> Github Repositories :</i></b></h3><b>
-
+</div>
 <div align="center"><a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
 </a></div>
