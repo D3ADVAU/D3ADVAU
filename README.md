@@ -43,9 +43,9 @@
 
 <b><h3><b><i> Github Repositories :</i></b></h3><b>
 
-<a href="https://github.com/Deadman247/All">
+<div><a href="https://github.com/Deadman247/All">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast" />
-</a>
+</a></div>
 <a href="https://github.com/Deadman247/Phish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=merko" />
 </a><a href="https://github.com/Deadman247/Brute">
