@@ -13,11 +13,11 @@
 <p align="center"><a href="https://github.com/Deadman247">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deadman247&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<div><a href="https://github.com/Deadman247"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadman247&layout=compact&theme=react&hide_border=true" />
+<div align="center"><a href="https://github.com/Deadman247"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadman247&layout=compact&theme=react&hide_border=true" />
 </a></p></div>
 
-<h2><b><i>Dead-Man 👋</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<div align="center"><h2><b><i>Dead-Man 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b></div>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Bangladeshi</i></li>
