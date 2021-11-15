@@ -51,8 +51,8 @@
 <div align="left"><a href="https://github.com/Deadman247/Brute">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=radical" />
 </a></div>
-<div align="left"><a href="https://github.com/Deadman247/CAM-HACK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=CAM-HACK&theme=algolia" />
+<div align="left"><a href="https://github.com/Deadman247/Cam-Hack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Cam-Hack&theme=algolia" />
 </a></div>
 <div align="left"><a href="https://github.com/Deadman247/ENCRYPT-DECRYPT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark" />
