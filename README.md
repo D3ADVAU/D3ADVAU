@@ -30,16 +30,9 @@
 [![Profile-Stats](https://github-profile-trophy.vercel.app/?username=Deadman247&theme=dracula&no-frame=true&title=Followers,Stars,Repository,Issues)](https://deadman247.github.io)
 
 ## 🏆 Profile Statistics :
-
 [![Profile-Views](https://komarev.com/ghpvc/?username=Deadman247&style=plastic&color=F70000)](https://deadman247.github.io)
 
-## 📡 Get in Touch :
-
-<a href="https://github.com/Deadman247"><img align="left" title="Github" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
-<a href="https://fb.com/DeadManGrayHat"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://static.xx.fbcdn.net/rsrc.php/yb/r/hLRJ1GG_y0J.ico" /></a>
-<a href="https://m.me/DeadManGrayHat"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" /></a>
-
-## Github Repositories :
+# My Github Repositories :
 
 [![All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast)](https://github.com/Deadman247/All)
 
