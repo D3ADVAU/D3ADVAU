@@ -4,10 +4,9 @@
 <p align="left"></p>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/82598662/132189110-25ed8d09-f6cb-42cd-9e19-aaf30124089f.gif">
-</p> 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=36F70C&size=23&height=55&lines=+Hi+There+Welcome+To+My+Profile;Are+You+Looking+For+Something..?%3F)](https://git.io/typing-svg">
-</p>  
+</p>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&lines=Hi+There+Welcome+to+my+profile)](https://git.io/typing-svg)
 <p align="left"></p>
 <p align="left"><a href="https://github.com/Deadman247">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Deadman247&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
