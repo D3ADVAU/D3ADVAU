@@ -3,16 +3,15 @@
 
 [![Profile-Img](https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4"&alt="logo"&width="250"&height="250")](https://deadman247.github.io)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&lines=Hi+There+Welcome+to+my+profile)](https://deadman247.github.io)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=false&lines=Hi+There+Welcome+to+my+profile;I+am+Dead-Man;Learning+coding+too+slow;Love+Allah;We+am+Muslims;Respect+us)](https://deadman247.github.io)
 
 [![Profile-Status](https://github-readme-stats.vercel.app/api?username=Deadman247&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)](https://deadman247.github.io)
 
 [![Profile-Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Deadman247&layout=compact&theme=react&hide_border=true)](https://deadman247.github.io)
-</a>
 
 ## Dead-Man 👋
 
-#### 💻 I'm a Student & A part time Programmer
+### 💻 I'm a Student & a part time Programmer
 
 ## 🤠 About me :
 
