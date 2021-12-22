@@ -32,6 +32,15 @@
 ## 🏆 Profile Statistics :
 [![Profile-Views](https://komarev.com/ghpvc/?username=Deadman247&style=plastic&color=F70000)](https://deadman247.github.io)
 
+## Follow me on:
+
+[![Github](https://img.shields.io/badge/GITHUB-DEAD%20MAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge)](https://guthub.com/Deadman247)
+
+
+[![Facebook](https://img.shields.io/badge/FACEBOOK-DEAD%20MAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge)](https://fb.com/DeadManGrayHat)
+
+[![Messenger](https://img.shields.io/badge/MASSENGER-DEAD%20MAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge)](https://m.me/DeadManGrayHat)
+
 # My Github Repositories :
 
 [![All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast)](https://github.com/Deadman247/All)
