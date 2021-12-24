@@ -1,4 +1,5 @@
 <!-- Github README -->
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 # Dead-Man
 
 [![Profile-Img](https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4"&alt="logo"&width="250"&height="250")](https://deadman247.github.io)
@@ -39,20 +40,11 @@
 
 # My Github Repositories :
 
-[![All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast)](https://github.com/Deadman247/All)
+> [![All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=All&theme=highcontrast)](https://github.com/Deadman247/All)  [![Phish](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=merko)](https://github.com/Deadman247/Phish)
 
-[![Phish](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Phish&theme=merko)](https://github.com/Deadman247/Phish)
+> [![Brute](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=radical)](https://github.com/Deadman247/Brute) [![Deface](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Deface&theme=blue-green)](https://github.com/Deadman247/Deface)
 
-[![Brute](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Brute&theme=radical)](https://github.com/Deadman247/Brute)
+> [![Cam-Hack](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Cam-Hack&theme=algolia)](https://github.com/Deadman247/Cam-Hack) [![ENCRYPT-DECRYPT](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark)](https://github.com/Deadman247/ENCRYPT-DECRYPT)
 
-[![Deface](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Deface&theme=blue-green)](https://github.com/Deadman247/Deface)
-
-[![Cam-Hack](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Cam-Hack&theme=algolia)](https://github.com/Deadman247/Cam-Hack)
-
-[![ENCRYPT-DECRYPT](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark)](https://github.com/Deadman247/ENCRYPT-DECRYPT)
-
-[![Bash-All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Bash-All&theme=blue-green)](https://github.com/Deadman247/Bash-All)
-
-[![Pyenc](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Pyenc&theme=gotham)](https://github.com/Deadman247/Pyenc)
-
-[![Pyenc](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Termuxstyle&theme=great-gatsby)](https://github.com/Deadman247/Termuxstyle)
+> [![Bash-All](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Bash-All&theme=blue-green)](https://github.com/Deadman247/Bash-All) [![Pyenc](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Pyenc&theme=gotham)](https://github.com/Deadman247/Pyenc)
+> > > > > > > > > > [![TermuxStyle](https://github-readme-stats.vercel.app/api/pin/?username=Deadman247&repo=Termuxstyle&theme=great-gatsby)](https://github.com/Deadman247/Termuxstyle)
