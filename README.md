@@ -1,5 +1,4 @@
 <!-- Github README -->
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 # Dead-Man
 
 [![Profile-Img](https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4"&alt="logo"&width="250"&height="250")](https://deadman247.github.io)
