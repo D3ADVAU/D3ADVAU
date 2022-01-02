@@ -28,7 +28,7 @@
 [![Profile-Stats](https://github-profile-trophy.vercel.app/?username=D3ADVAU&theme=onedark)](https://D3ADVAU.github.io)
 [![Profile-Commits](https://github-readme-streak-stats.herokuapp.com?user=D3ADVAU&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&fire=FF2D2D&stroke=FF2D2D&ring=FF2D2D&border=FF2D2D&currStreakNum=FF2D2D&sideNums=FF2D2D&sideLabels=FF2D2D&dates=FF2D2D&currStreakLabel=FF2D2D)](https://D3ADVAU.github.io)
 ## 🏆 Profile Statistics :
-[![Profile-Views](https://komarev.com/ghpvc/?username=D3ADVAU&style=plastic&color=F70000)](https://D3ADVAU.github.io)
+[![Profile-Views](https://gpvc.arturio.dev/D3ADVAU)](https://D3ADVAU.github.io)
 ## Follow me on:
 
 [![Github](https://img.shields.io/badge/GITHUB-DEAD%20MAN-green?colorA=%23fffff&colorB=%23000000&style=for-the-badge)](https://guthub.com/D3ADVAU)
