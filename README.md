@@ -5,10 +5,6 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=false&lines=Hi+There+Welcome+to+my+profile;I+am+Dead-Man;Learning+coding+too+slow;Love+Allah;We+am+Muslims;Respect+us)](https://D3ADVAU.github.io)
 
-[![Profile-Status](https://github-readme-stats.vercel.app/api?username=D3ADVAU&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)](https://D3ADVAU.github.io)
-
-[![Profile-Status](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ADVAU&layout=compact&theme=react&hide_border=true)](https://D3ADVAU.github.io)
-
 ## Dead-Man 👋
 
 ### 💻 I'm a Student & a part time Programmer
@@ -24,9 +20,11 @@
 - 🤐 Aim : Become a Devoloper
 
 # 🏆 Github Statistics :
-[![All-Status](https://metrics.lecoq.io/D3ADVAU)](https://D3ADVAU.github.io)
-[![Profile-Stats](https://github-profile-trophy.vercel.app/?username=D3ADVAU&theme=onedark)](https://D3ADVAU.github.io)
+[![Profile-language](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ADVAU&layout=compact&theme=react&hide_border=true)](https://D3ADVAU.github.io)
+[![Profile-Status](https://github-readme-stats.vercel.app/api?username=D3ADVAU&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)](https://D3ADVAU.github.io)
 [![Profile-Commits](https://github-readme-streak-stats.herokuapp.com?user=D3ADVAU&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&fire=FF2D2D&stroke=FF2D2D&ring=FF2D2D&border=FF2D2D&currStreakNum=FF2D2D&sideNums=FF2D2D&sideLabels=FF2D2D&dates=FF2D2D&currStreakLabel=FF2D2D)](https://D3ADVAU.github.io)
+[![All-Status](https://metrics.lecoq.io/D3ADVAU)](https://D3ADVAU.github.io)
+[![Profile-Stats2](https://github-profile-trophy.vercel.app/?username=D3ADVAU&theme=onedark)](https://D3ADVAU.github.io)
 [![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&theme=react-dark)](https://git.io/D3ADVAU)
 <!--
 ## 🏆 Profile Statistics :
