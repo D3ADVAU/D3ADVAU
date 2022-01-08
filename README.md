@@ -3,6 +3,12 @@
 
 [![Profile-Img](https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4"&alt="logo"&width="250"&height="250")](https://D3ADVAU.github.io)
 
+[![Github][1.1]][1]
+[![Facebook][2.1]][2]
+[![messenger][3.1]][3]
+[![instagram][4.1]][4]
+[![Gmail][5.1]][5]
+
 ## Dead-Man 👋
 
 ### 💻 I'm a Student & a part time Programmer
@@ -40,6 +46,24 @@
 [![Facebook](https://img.shields.io/badge/FACEBOOK-DEAD%20MAN-green?colorA=%2300BFFF&colorB=%23000080&style=for-the-badge)](https://fb.com/D3ADVAU)
 
 [![Messenger](https://img.shields.io/badge/MASSENGER-DEAD%20MAN-green?colorA=%238B008B&colorB=%23700FF00&style=for-the-badge)](https://m.me/D3ADVAU)
+
+[![Github][1.1]][1]
+[![Facebook][2.1]][2]
+[![messenger][3.1]][3]
+[![instagram][4.1]][4]
+[![Gmail][5.1]][5]
+
+[1.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/github.png (github)
+[2.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/fb.png (facebook)
+[3.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/messenger.png (messenger)
+[4.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/instagram.png (instagram)
+[5.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/gmail1.png (mail)
+
+[1]: https://www.github.com/D3ADVAU
+[2]: https://www.facebook.com/D3ADVAU
+[3]: https://m.me/D3ADVAU
+[4]: https://www.instagram.com/D3ADVAU
+[5]: mailto:deadmanofficial247@gmail.com
 
 # My Github Repositories :
 
