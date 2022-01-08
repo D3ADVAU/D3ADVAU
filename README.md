@@ -1,4 +1,3 @@
-<!-- Github README -->
 # Dead-Man
 
 [![Profile-Img](https://avatars.githubusercontent.com/u/82598662?s=400&u=c1a1c80a06e52c5f672fe1bc0f41cc1f8d619940&v=4"&alt="logo"&width="250"&height="250")](https://D3ADVAU.github.io)
@@ -10,6 +9,11 @@
 [![Gmail][5.1]][5]
 
 ## Dead-Man 👋
+[![Github][1.1]][1]
+[![Facebook][2.1]][2]
+[![messenger][3.1]][3]
+[![instagram][4.1]][4]
+[![Gmail][5.1]][5]
 
 ### 💻 I'm a Student & a part time Programmer
 
