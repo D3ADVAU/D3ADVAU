@@ -58,11 +58,11 @@
 [![instagram][4.1]][4]
 [![Gmail][5.1]][5]
 
-[1.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/github.png (github)
-[2.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/fb.png (facebook)
-[3.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/messenger.png (messenger)
-[4.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/instagram1.png (instagram)
-[5.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/gmail5.png (mail)
+[1.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/github.png
+[2.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/fb.png
+[3.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/messenger.png
+[4.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/instagram1.png
+[5.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/gmail5.png
 
 [1]: https://www.github.com/D3ADVAU
 [2]: https://www.facebook.com/D3ADVAU
