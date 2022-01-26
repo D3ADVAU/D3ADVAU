@@ -88,10 +88,8 @@
 [![Phish](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Phish&theme=great-gatsby)](https://github.com/D3ADVAU/Phish)
 [![Brute](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Brute&theme=great-gatsby)](https://github.com/D3ADVAU/Brute)
 [![Cam-Hack](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Cam-Hack&theme=great-gatsby)](https://github.com/D3ADVAU/Cam-Hack)
-
 [![ENCRYPT-DECRYPT](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark)](https://github.com/D3ADVAU/ENCRYPT-DECRYPT)
 [![Bash-All](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Bash-All&theme=chartreuse-dark)](https://github.com/D3ADVAU/Bash-All)
 [![Pyenc](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Pyenc&theme=chartreuse-dark)](https://github.com/D3ADVAU/Pyenc)
 [![TermuxStyle](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Termuxstyle&theme=chartreuse-dark)](https://github.com/D3ADVAU/Termuxstyle)
-
 [![Deface](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Deface&theme=great-gatsby)](https://github.com/D3ADVAU/Deface)
