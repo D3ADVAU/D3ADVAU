@@ -47,7 +47,9 @@
 
 [![Profile-Stats2](https://github-profile-trophy.vercel.app/?username=D3ADVAU&theme=onedark)](https://D3ADVAU.github.io)
 
-[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true8)](https://github.io/D3ADVAU)
+<!--[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true8)](https://github.io/D3ADVAU)-->
+
+[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&bg_color=000000&color=05f0d4&line=ea0606&point=f00505&area=true&hide_border=true)](https://github.io/D3ADVAU)
 
 <!--[![CONTRIBUTE-GRAFH](https://my-activity-graph-instance.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true)](https://github.io/D3ADVAU)-->
 ## 🏆 Profile Statistics :
