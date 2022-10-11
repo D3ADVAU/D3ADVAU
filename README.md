@@ -102,3 +102,4 @@
 [![Pyenc](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Pyenc&theme=chartreuse-dark)](https://github.com/D3ADVAU/Pyenc)
 [![TermuxStyle](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Termuxstyle&theme=chartreuse-dark)](https://github.com/D3ADVAU/Termuxstyle)
 [![Deface](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Deface&theme=great-gatsby)](https://github.com/D3ADVAU/Deface)
+[![Dview](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Dview&theme=great-gatsby)](https://github.com/D3ADVAU/Dview)
