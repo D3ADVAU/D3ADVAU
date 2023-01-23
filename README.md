@@ -49,7 +49,7 @@
 
 <!--[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true8)](https://github.io/D3ADVAU)-->
 
-[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&bg_color=000000&color=05f0d4&line=ea0606&point=f00505&area=true&hide_border=true)](https://github.io/D3ADVAU)
+<!--[![CONTRIBUTE-GRAFH](https://activity-graph.herokuapp.com/graph?username=D3ADVAU&bg_color=000000&color=05f0d4&line=ea0606&point=f00505&area=true&hide_border=true)](https://github.io/D3ADVAU)-->
 
 <!--[![CONTRIBUTE-GRAFH](https://my-activity-graph-instance.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true)](https://github.io/D3ADVAU)-->
 ## 🏆 Profile Statistics :
@@ -95,7 +95,6 @@
 
 [![All](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=All&theme=great-gatsby)](https://github.com/D3ADVAU/All)
 [![Phish](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Phish&theme=great-gatsby)](https://github.com/D3ADVAU/Phish)
-[![Brute](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Brute&theme=great-gatsby)](https://github.com/D3ADVAU/Brute)
 [![Cam-Hack](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Cam-Hack&theme=great-gatsby)](https://github.com/D3ADVAU/Cam-Hack)
 [![ENCRYPT-DECRYPT](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=ENCRYPT-DECRYPT&theme=chartreuse-dark)](https://github.com/D3ADVAU/ENCRYPT-DECRYPT)
 [![Bash-All](https://github-readme-stats.vercel.app/api/pin/?username=D3ADVAU&repo=Bash-All&theme=chartreuse-dark)](https://github.com/D3ADVAU/Bash-All)
