@@ -5,20 +5,22 @@
 
 [![Github][1.1]][1]
 [![Facebook][2.1]][2]
-[![messenger][3.1]][3]
-[![instagram][4.1]][4]
-[![Gmail][5.1]][5]
-[![Yahoo][6.1]][6]
-[![Protonmail][7.1]][7]
+[![Telegram][3.1]][3]
+[![messenger][4.1]][4]
+[![instagram][5.1]][5]
+[![Gmail][6.1]][6]
+[![Yahoo][7.1]][7]
+[![Protonmail][8.1]][8]
 
 ## Dead-Man 👋
 [![Github][1.1]][1]
 [![Facebook][2.1]][2]
-[![messenger][3.1]][3]
-[![instagram][4.1]][4]
-[![Gmail][5.1]][5]
-[![Yahoo][6.1]][6]
-[![Protonmail][7.1]][7]
+[![Telegram][3.1]][3]
+[![messenger][4.1]][4]
+[![instagram][5.1]][5]
+[![Gmail][6.1]][6]
+[![Yahoo][7.1]][7]
+[![Protonmail][8.1]][8]
 
 ### 💻 I'm a Student & a part time Programmer
 
@@ -65,31 +67,34 @@
 
 [![Facebook](https://img.shields.io/badge/FACEBOOK-DEAD%20MAN-green?colorA=%2300BFFF&colorB=%23000080&style=for-the-badge)](https://fb.com/D3ADVAU)
 
-[![Messenger](https://img.shields.io/badge/MASSENGER-DEAD%20MAN-green?colorA=%238B008B&colorB=%23700FF00&style=for-the-badge)](https://m.me/D3ADVAU)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-DEAD%20MAN-red?colorA=%2300BFFF&colorB=currentcolor&style=for-the-badge)](https://m.me/D3ADVAU)
 
 [![Github][1.1]][1]
 [![Facebook][2.1]][2]
-[![messenger][3.1]][3]
-[![instagram][4.1]][4]
-[![Gmail][5.1]][5]
-[![Yahoo][6.1]][6]
-[![Protonmail][7.1]][7]
+[![Telegram][3.1]][3]
+[![messenger][4.1]][4]
+[![instagram][5.1]][5]
+[![Gmail][6.1]][6]
+[![Yahoo][7.1]][7]
+[![Protonmail][8.1]][8]
 
 [1.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/github.png
 [2.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/fb.png
-[3.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/messenger.png
-[4.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/instagram1.png
-[5.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/gmail5.png
-[6.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/yahoo2.png
-[7.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/protonmail.png
+[3.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/telegram.png
+[4.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/messenger.png
+[5.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/instagram1.png
+[6.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/gmail5.png
+[7.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/yahoo2.png
+[8.1]: https://raw.githubusercontent.com/D3ADVAU/D3ADVAU/Dead/image/protonmail.png
 
 [1]: https://www.github.com/D3ADVAU
-[2]: https://www.facebook.com/D3ADVAU
-[3]: https://m.me/D3ADVAU
-[4]: https://www.instagram.com/D3ADVAU
-[5]: mailto:deadmanofficial247@gmail.com
-[6]: mailto:d3advau@yahoo.com
-[7]: mailto:d3advau@protonmail.com
+[2]: https://fb.me/D3ADVAU
+[3]: https://t.me/d3advau
+[4]: https://m.me/D3ADVAU
+[5]: https://www.instagram.com/D3ADVAU
+[6]: mailto:deadmanofficial247@gmail.com
+[7]: mailto:d3advau@yahoo.com
+[8]: mailto:d3advau@protonmail.com
 
 # My Github Repositories :
 
