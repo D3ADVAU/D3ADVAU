@@ -56,7 +56,7 @@
 <!--[![CONTRIBUTE-GRAFH](https://my-activity-graph-instance.herokuapp.com/graph?username=D3ADVAU&theme=react-dark&area=true&hide_border=true)](https://github.io/D3ADVAU)-->
 ## 🏆 Profile Statistics :
 
-[![Profile-Views](https://gpvc.arturio.dev/D3ADVAU)](https://D3ADVAU.github.io)
+<!--[![Profile-Views](https://gpvc.arturio.dev/D3ADVAU)](https://D3ADVAU.github.io)-->
 
 <!--[![Profile-Views](https://visitor-badge.glitch.me/badge?page_id=D3ADVAU&left_color=black&right_color=black&left_text=Total%20Visitors)](https://D3ADVAU.github.io)-->
 
