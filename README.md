@@ -45,7 +45,7 @@
 
 [![Profile-Commits](https://github-readme-streak-stats.herokuapp.com?user=D3ADVAU&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&fire=FF2D2D&stroke=FF2D2D&ring=FF2D2D&border=FF2D2D&currStreakNum=FF2D2D&sideNums=FF2D2D&sideLabels=FF2D2D&dates=FF2D2D&currStreakLabel=FF2D2D)](https://D3ADVAU.github.io)
 
-[![All-Status](https://metrics.lecoq.io/D3ADVAU)](https://D3ADVAU.github.io)
+<!--[![All-Status](https://metrics.lecoq.io/D3ADVAU)](https://D3ADVAU.github.io)-->
 
 [![Profile-Stats2](https://github-profile-trophy.vercel.app/?username=D3ADVAU&theme=onedark)](https://D3ADVAU.github.io)
 
